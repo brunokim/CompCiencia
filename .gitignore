@@ -1,6 +1,10 @@
-*
+# https://stackoverflow.com/a/29932318/946814
+/*
 
 !.gitignore
-!*.py
+!README.md
+!LICENSE.md
 
-!*/
+!hash/
+hash/*
+!hash/*.py
