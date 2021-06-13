@@ -36,7 +36,7 @@ def _show_sbk(text, char_to_int=ord):
 
 tweet = """Uma função hash bem simples para um trecho de texto é
 
-"Some o valor de cada caractere, e pegue os últimos 3 dígitos"
+ "Atribua um valor pra cada caractere, some todos, e pegue os últimos 3 dígitos"
 
 Vamos chamar essa função de SBK (Soma do Bruno Kim). Ela produz, pra qualquer texto, um número entre 000 e 999."""
 
